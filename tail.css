@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding:0;
+    scroll-behavior: none;
 }
 
   .im{
@@ -62,7 +63,7 @@
   
 }
 .comp{
-     /* background-color: rgb(9, 9, 48);  */
+
     height:800px;
     color:white;
     position:relative;
